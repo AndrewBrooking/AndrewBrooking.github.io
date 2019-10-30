@@ -26,9 +26,18 @@ body {
 }
 
 .carousel-caption {
-    background-color: rgba(61, 63, 63, 0.7);
-    left: 0%;
-    right: 0%;
+    background-color: rgba(54, 54, 54, 0.75);
+    left: 25%;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background: rgba(54, 54, 54, 0.75);
+    width: 7.5%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    padding: 2rem;
 }
 
 .slide-down {
