@@ -1,0 +1,28 @@
+.App {
+  width: 100%;
+  font: 
+}
+
+.dark-bg {
+  background-color: #242424;
+}
+
+.light-bg {
+  background-color: #FAFAFA;
+}
+
+.dark-text {
+  color: #242424;
+}
+
+.light-text {
+  color: #FAFAFA
+}
+
+.dark-border {
+  border-color: #242424;
+}
+
+.light-border {
+  border-color: #FAFAFA;
+}
